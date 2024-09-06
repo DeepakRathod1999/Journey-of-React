@@ -1,0 +1,26 @@
+{
+  "name": "journey-of-react",
+  "version": "1.0.0",
+  "description": "this is react from scratch to master level ",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeepakRathod1999/Journey-of-React.git"
+  },
+  "author": "Deepak Prakash Rathod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeepakRathod1999/Journey-of-React/issues"
+  },
+  "homepage": "https://github.com/DeepakRathod1999/Journey-of-React#readme",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
