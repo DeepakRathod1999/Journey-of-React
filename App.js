@@ -1,7 +1,7 @@
 import React from "react";
 import  ReactDOM  from "react-dom";
 // const heading = React.createElement("h1",{id:"child1"},"i am the heading");
-
+ 
 const App=()=>{
     const title =(
 <div>
